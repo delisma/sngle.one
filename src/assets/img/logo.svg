@@ -1,4 +1,18 @@
-<svg width="47" height="37" viewBox="0 0 47 37" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M15.5092 1.89746H35.3259L20.7566 23.6923H0.939941L15.5092 1.89746Z" fill="#42E0CE"/>
-<path d="M16.3771 25.7122L10.7341 34.1539H31.4908L46.0601 12.3591H30.7403L21.8141 25.7122H16.3771Z" fill="#A14FD6"/>
+<svg width="100%" height="100%" viewBox="0 0 400 516" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1354.92,0)">
+        <g transform="matrix(1,0,0,1,905.165,0)">
+            <rect id="Coloured---Navy-first" serif:id="Coloured - Navy first" x="449.756" y="0" width="399.756" height="515.482" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect id="Coloured---Navy-first1" serif:id="Coloured - Navy first" x="449.756" y="0" width="399.756" height="515.482"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1,450.756,0)">
+                    <path d="M150.166,297.847C124.717,289.524 101.439,277.302 81.769,261.934C2.329,199.868 -1.109,101.777 74.095,43.021C149.3,-15.736 274.851,-13.049 354.291,49.016C373.986,64.404 389.645,82.617 400.299,102.529L250.377,219.66C275.826,227.983 299.104,240.206 318.774,255.574C398.214,317.639 401.653,415.731 326.448,474.487C251.244,533.243 125.692,530.557 46.252,468.492C26.557,453.104 10.898,434.891 0.244,414.979L150.166,297.847Z" style="fill:rgb(44,62,80);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,450.756,0)">
+                    <path d="M235.812,139.534L116.835,171.341L175.392,390.375L294.368,358.568L235.812,139.534Z" style="fill:rgb(26,188,156);"/>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
